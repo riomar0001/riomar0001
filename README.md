@@ -42,7 +42,7 @@
 
 <h1 align="center"> 📊 GitHub Stats</h1>
 
-<p style="text-align: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=riomar0001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=riomar0001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riomar0001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
