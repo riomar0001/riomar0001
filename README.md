@@ -25,9 +25,7 @@ I build secure, scalable, and maintainable digital products.
 ## ABOUT ME
 
 My work spans frontend engineering, backend APIs, database design, cloud deployment, and application security.
-
 I focus on maintainable architecture, clear product experiences, and reliable delivery.
-
 I also mentor computing students, lead technical workshops, and compete in cybersecurity events.
 
 <table>
@@ -124,25 +122,6 @@ I also mentor computing students, lead technical workshops, and compete in cyber
 </a>
 
 </div>
-
----
-
-## EXPERIENCE AND RECOGNITION
-
-* **Frontend Engineer, DurianPy**
-  Contributed to the PyCon Davao 2025 website using React, Next.js, and Tailwind CSS.
-
-* **Startup Developer, MooManage**
-  Led Android application development using React Native, Expo, OTP authentication, notifications, media uploads, EAS Build, and OTA updates.
-
-* **1st Runner-Up, Quantum Computing and Cybersecurity Hackathon**
-  Solved cybersecurity and quantum computing challenges under QCSP and ISC2.
-
-* **Hack4Gov 3 National Finalist**
-  Competed in web exploitation, network forensics, reverse engineering, and incident response.
-
-* **Technical Speaker and Mentor**
-  Led JavaScript, frontend development, UI/UX, and responsive design workshops for university students and interns.
 
 ---
 
