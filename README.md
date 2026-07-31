@@ -28,14 +28,6 @@ My work spans frontend engineering, backend APIs, database design, cloud deploym
 I focus on maintainable architecture, clear product experiences, and reliable delivery.
 I also mentor computing students, lead technical workshops, and compete in cybersecurity events.
 
-<table>
-  <tr>
-    <td width="33%"><b>Location</b><br />Davao City, Philippines</td>
-    <td width="33%"><b>Current Focus</b><br />Secure full-stack systems</td>
-    <td width="33%"><b>Status</b><br />Open for projects</td>
-  </tr>
-</table>
-
 ---
 
 ## TECH STACK
