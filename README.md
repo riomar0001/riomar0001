@@ -2,7 +2,7 @@
 
 # MARIO INGUITO
 
-### Software Engineer · Full-Stack Developer · Cybersecurity Enthusiast
+### Software Engineer · Cybersecurity Enthusiast
 
 I build secure, scalable, and maintainable digital products.
 
