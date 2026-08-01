@@ -11,9 +11,11 @@ I build secure, scalable, and maintainable digital products.
 <a href="https://www.riomar.dev/">
   <img src="https://img.shields.io/badge/PORTFOLIO-riomar.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
+
 <a href="https://github.com/riomar0001">
   <img src="https://img.shields.io/badge/GITHUB-%40riomar0001-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://linkedin.com/in/marioinguito">
   <img src="https://img.shields.io/badge/LINKEDIN-Mario%20Inguito-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -81,51 +83,6 @@ My work spans frontend engineering, backend APIs, database design, system archit
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-111111?style=flat-square\&logo=protondrive\&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-111111?style=flat-square\&logo=thealgorithms\&logoColor=white)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-111111?style=flat-square\&logo=owasp\&logoColor=white)
-
-
-
----
-
-## FEATURED PROJECTS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Web IDS Middleware</h3>
-      <p>Machine learning intrusion detection middleware for real-time HTTP traffic analysis, attack classification, explainability, and webhook alerts.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Machine Learning</code> <code>Cybersecurity</code></p>
-      <a href="https://github.com/riomar0001/web-ids-middleware">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Bayaw Jobs</h3>
-      <p>Security-focused job portal with TypeScript, two-factor authentication, layered validation, rate limiting, Redis, and asynchronous processing.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>Express</code> <code>Prisma</code></p>
-      <a href="https://github.com/riomar0001/bayaw-jobs">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>UMAttend</h3>
-      <p>Multi-platform attendance system with secure authentication, role-based access, analytics, modular services, and cloud deployment.</p>
-      <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Docker</code></p>
-      <a href="https://github.com/riomar0001/umattend-app">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Express Scaffold</h3>
-      <p>TypeScript backend starter for Express, JWT authentication, Prisma ORM, validation, and structured API development.</p>
-      <p><code>TypeScript</code> <code>Express</code> <code>JWT</code> <code>Prisma</code></p>
-      <a href="https://github.com/riomar0001/express-scaffold">View Repository →</a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<a href="https://www.riomar.dev/#work">
-  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
-</a>
-
-</div>
 
 ---
 
