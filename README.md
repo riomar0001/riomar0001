@@ -24,9 +24,7 @@ I build secure, scalable, and maintainable digital products.
 
 ## ABOUT ME
 
-My work spans frontend engineering, backend APIs, database design, cloud deployment, and application security.
-I focus on maintainable architecture, clear product experiences, and reliable delivery.
-I also mentor computing students, lead technical workshops, and compete in cybersecurity events.
+My work spans frontend engineering, backend APIs, database design, system architecture, cloud deployment, and application security. I build scalable, maintainable systems with clear product experiences and reliable delivery. I also mentor computing students, lead technical workshops, and compete in cybersecurity events.
 
 ---
 
@@ -69,8 +67,22 @@ I also mentor computing students, lead technical workshops, and compete in cyber
 ![NGINX](https://img.shields.io/badge/NGINX-111111?style=flat-square\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square\&logo=microsoft%20azure\&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-111111?style=flat-square\&logo=amazonwebservices\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square\&logo=googlecloud\&logoColor=white)
+
+
+### Cybersecurity
+
+![VAPT](https://img.shields.io/badge/Vulnerability%20Assessment%20and%20Penetration%20Testing-111111?style=flat-square\&logo=kalilinux\&logoColor=white)
+![DFIR](https://img.shields.io/badge/Digital%20Forensics%20and%20Incident%20Response-111111?style=flat-square\&logo=securityscorecard\&logoColor=white)
+![Web Application Security](https://img.shields.io/badge/Web%20Application%20Security-111111?style=flat-square\&logo=owasp\&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-111111?style=flat-square\&logo=wireshark\&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-111111?style=flat-square\&logo=protondrive\&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-111111?style=flat-square\&logo=thealgorithms\&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-111111?style=flat-square\&logo=owasp\&logoColor=white)
+
+
 
 ---
 
